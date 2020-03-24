@@ -1,2 +1,2 @@
 # Uma_Tech
-Submission for Uma.Tech competition.
+Solution for Uma.Tech competition problem.
